@@ -1,2 +1,3 @@
-# electron-simple-app
-Electron simple app
+# Electron simple app
+
+Hello world app for example 
