@@ -1,5 +1,11 @@
 {
-	"name": "electron-simple-app",
-	"version": "0.0.1",
-	"main": "main.js"
+  "name": "electron-simple-app",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "start": "./node_modules/.bin/electron ."
+  },
+  "dependencies": {
+    "electron-prebuilt": "^0.35.2"
+  }
 }
